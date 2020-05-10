@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office>
+    <employee aid = "E1">
+        <name>faraz</name>
+        <salary>$3000</salary>
+    </employee>
+    
+    <employee aid = "E2">
+        <name>faraz</name>
+        <salary>$3000</salary>
+    </employee>
+
+</office>
